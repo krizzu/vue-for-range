@@ -1,0 +1,27 @@
+{
+  "name": "vue-for-range",
+  "version": "1.0.0",
+  "description": "Vue's implementation of python's range function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vue-for",
+    "vue-range",
+    "vue-for-range",
+    "vue range",
+    "vue for range"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Krizzu/vue-for-range.git"
+  },
+  "bugs": {
+    "url": "http://github.com/Krizzu/vue-for-range/issues"
+  },
+  "homepage": "https://github.com/Krizzu/vue-for-range.git#readme",
+  "author": "Krizzu",
+  "license": "MIT"
+}
