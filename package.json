@@ -1,6 +1,6 @@
 {
   "name": "vue-for-range",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue's implementation of python's range function",
   "main": "index.js",
   "scripts": {

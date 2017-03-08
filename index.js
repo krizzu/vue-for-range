@@ -31,8 +31,8 @@ rangePlugin.install = function(Vue, options) {
 
         var arr = [];
 
-        for(i = 0; l = end, start < l; i++) {
-          arr[i]=start;
+        while (start < end) {
+          arr.push(start);
           start+=step;
         }
 
