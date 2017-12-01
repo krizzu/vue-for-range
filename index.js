@@ -12,15 +12,15 @@ rangePlugin.install = function(Vue, options) {
         step = step || 1;
 
         if(typeof start !== 'number') {
-          console.warn('Vue-for-range: provided argument for start - ${start} - is not a number.')
+          console.warn('Vue-for-range: provided argument for start - ' + start + ' - is not a number.')
           return [];
         }
         if(typeof end !== 'number') {
-          console.warn('Vue-for-range: provided argument for end - ${end} - is not a number.')
+          console.warn('Vue-for-range: provided argument for end - ' + end + ' - is not a number.')
           return [];
         }
         if(typeof step !== 'number') {
-          console.warn('Vue-for-range: provided argument for step - ${step} - is not a number.')
+          console.warn('Vue-for-range: provided argument for step - ' + step + ' - is not a number.')
           return [];
         }
 
